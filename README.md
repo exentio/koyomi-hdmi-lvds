@@ -18,7 +18,7 @@ The display, in my case a LT080EE04100 by Toshiba (it should be the same for
 all Vaio Ps), has no backlight driver, and for that the backlight pins are
 broken out, allowing testing of different drivers.  
 
-Reference timings from [this post on patter's blog](https://pcloadletter.co.uk/2012/07/06/iemgd-for-vaio-p/),
+Reference timings from [this post on patters' blog](https://pcloadletter.co.uk/2012/07/06/iemgd-for-vaio-p/),
 huge thank you!  
 
 Pixel clock in Hz: `83600000`  
