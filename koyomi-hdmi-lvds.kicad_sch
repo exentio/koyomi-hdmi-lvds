@@ -17496,7 +17496,7 @@
 				)
 			)
 		)
-		(property "Value" "U-C-19DD-W-1"
+		(property "Value" "HDMI-019S"
 			(at 160.274 109.22 0)
 			(effects
 				(font
@@ -17505,7 +17505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "U-C-19DD-W-1:U-C-19DD-W-1"
+		(property "Footprint" "HDMI_SMD:HDMI-SMD_HDMI-019S"
 			(at 162.56 137.16 0)
 			(effects
 				(font
@@ -17514,7 +17514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2110281730_Korean-Hroparts-Elec-U-C-19DD-W-1_C2909254.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2009111836_SOFNG-HDMI-019S_C111617.pdf"
 			(at 162.56 137.16 0)
 			(effects
 				(font
