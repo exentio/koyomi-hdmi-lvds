@@ -1,11 +1,11 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*
-G04 #@! TF.CreationDate,2024-06-19T18:32:56+02:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*
+G04 #@! TF.CreationDate,2024-08-03T17:03:47+02:00*
 G04 #@! TF.ProjectId,koyomi-hdmi-lvds,6b6f796f-6d69-42d6-9864-6d692d6c7664,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.3) date 2024-06-19 18:32:56*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-08-03 17:03:47*
 %MOMM*%
 %LPD*%
 G01*
