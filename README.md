@@ -6,6 +6,10 @@ The purpose of this adapter is to test and play around with the display of the
 Vaio P before further development of the motherboard and to be used in
 hand-wired builds.  
 
+The production of this board **has been sponsored by [JLCPCB](https://jlcpcb.com)**,
+they're my trusted PCB manufacturer and the recommended manufacturer for these
+boards.  
+
 **⚠️ WARNING: at the moment of writing, the board hasn't been tested.**  
 
 The board uses Texas Instruments' SN75LVDS83B LVDS transmitter and TFP401 DVI
