@@ -1155,7 +1155,7 @@
 			(uuid "ec752b95-a359-4539-a902-1392f78615a5")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}lib/.3dshapes/HDMI-SMD_HDMI-019S.wrl"
+		(model "${KIPRJMOD}/lib/HDMI_SMD/HDMI-SMD_HDMI-019S.step"
 			(offset
 				(xyz 0 -2.06 2.3)
 			)
@@ -13974,7 +13974,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
+		(attr board_only exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
