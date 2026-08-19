@@ -678,7 +678,7 @@
       {
         "filename": "koyomi-hdmi-lvds.kicad_sch",
         "name": "koyomi-hdmi-lvds",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "2ed00001-e394-4e65-bfda-b0a47aeccb9b"
       }
     ],
     "used_designators": "",
@@ -687,7 +687,7 @@
   "sheets": [
     [
       "2ed00001-e394-4e65-bfda-b0a47aeccb9b",
-      "Root"
+      "koyomi-hdmi-lvds"
     ]
   ],
   "text_variables": {},
