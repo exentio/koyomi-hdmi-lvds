@@ -6,4 +6,5 @@
   (lib (name "koyomi_bl_test_driver")(type "KiCad")(uri "${KIPRJMOD}/lib/koyomi_bl_test_driver")(options "")(descr ""))
   (lib (name "HDMI_SMD")(type "KiCad")(uri "${KIPRJMOD}/lib/HDMI_SMD")(options "")(descr ""))
   (lib (name "exentio_art")(type "KiCad")(uri "${KIPRJMOD}/lib/exentio_art")(options "")(descr ""))
+  (lib (name "Murata_DLP2ADN121HL4L")(type "KiCad")(uri "${KIPRJMOD}/lib/Murata_DLP2ADN121HL4L")(options "")(descr ""))
 )
